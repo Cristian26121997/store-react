@@ -43,9 +43,8 @@ const ItemListContainer = () => {
       )
      }
 
-     <itemList productos={productos}/>
      
-      <ItemCount/>
+      {/*<ItemCount/>*/}
     </div>
   )
 }
